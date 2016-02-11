@@ -69,7 +69,7 @@
 ** Install pkg-config **
 ************************
 
-1.  Visit http://www.gtk.org/download/win32.php
+1.  Visit http://www.gtk.org/download/win32.php 			!!! 	<---------	This page is no longer exists
 2.  Search for a version of pkg-config that includes both the Tool and Dev downloads
 3.  Click and download both the Tool link and the Dev link
 4.  Open the pkg-config zip file and extract the bin folder to C:\MinGW
